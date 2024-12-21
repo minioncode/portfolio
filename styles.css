@@ -1,0 +1,62 @@
+.text-center {
+  text-align: center;
+}
+
+.btn {
+    color: #667558;
+    border-color: #667558;
+    font-family: Georgia;
+}
+
+.btn-custom {
+  color: #667558;
+  border-color: #667558;
+  font-family: Georgia;
+  margin: 25px;
+}
+
+body {
+  background-color: #D1D3C7;
+  margin: 40px;
+}
+
+h1 {
+  font-size: 5rem
+  color: #667558;
+  font-weight: bold;
+  font-family: Georgia;
+}
+
+h2 {
+  font-size: 3rem
+  color: black;
+  font-weight: bold;
+  font-family: Georgia;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 2rem
+  color: black;
+  font-weight: normal;
+  font-family: Georgia;
+}
+
+p {
+  font-size: 1rem;
+  color: black;
+  font-weight: normal;
+  font-family: Georgia;
+}
+
+ul.b {
+  list-style-type: square;
+  font-size: 1rem;
+  color: black;
+  font-weight: normal;
+  font-family: Georgia;
+}
+
+a {
+  color: #667558;
+}

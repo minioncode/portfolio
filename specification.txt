@@ -1,0 +1,10 @@
+10 HTML tags:
+h1, h2, h3, hr, li, i, button, a, br, p
+
+5 CSS properties:
+color, font-size, margin, font-family, font-weight
+
+JavaScript and Bootstrap:
+I used Bootstrap to stylize my buttons with their btn-outline feature,
+and JavaScript to add event listeners that changed the background color of buttons whenever the
+mouse hovered over it.

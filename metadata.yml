@@ -1,0 +1,12 @@
+---
+:id: 287634661
+:submitters:
+- :name: Tina Li
+  :email: tina.li.tl766@yale.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-11 02:47:36.974585000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-10 18:47:36.974585000 Z
+:status: processed
+:score: 15.0
